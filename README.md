@@ -10,6 +10,6 @@ About me
 
 - Age: 14
 - Job: Student
-- Languages: German, English, French
+- Languages: German, English, French & Spain
 - Programming Languages: Java, Python, Kotlin
 - Favorite Database: MongoDB, Redis
