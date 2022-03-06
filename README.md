@@ -8,7 +8,7 @@
 
 About me
 
-- Age: 14
+- Age: 15
 - Job: Student
 - Languages: German, English, French & Spain
 - Programming Languages: Java, Python, Kotlin
