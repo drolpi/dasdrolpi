@@ -1,14 +1,12 @@
-<div style="background:#333; border-radius:10px; padding:30px;" align="center">
-    <p style="color:#DDD">
-    Hi there 👋, I am Lars
-    </p>
-</div>
+## My profile
 
----
+### Hi. 🎶
+My name is Lars, I am 15 years old and a German software engineer and fan of open source.
+
+- 🔭 I mainly work on [NatroxMc](https://github.com/NatroxMC).
 
 About me
 
-- Age: 15
 - Job: Student
 - Languages: German, English, French & Spain
 - Programming Languages: Java, Python, Kotlin
