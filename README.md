@@ -1,5 +1,3 @@
-## My profile
-
 ### Hi. 🎶
 My name is Lars, I am 15 years old and a German software engineer and fan of open source.
 
