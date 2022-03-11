@@ -6,6 +6,6 @@ My name is Lars, I am 15 years old and a German software engineer and fan of ope
 About me
 
 - Job: Student
-- Languages: German, English, French & Spain
+- Languages: German, English
 - Programming Languages: Java, Python, Kotlin
 - Favorite Database: MongoDB, Redis
