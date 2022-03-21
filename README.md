@@ -8,5 +8,6 @@ About me
 
 - Job: Student
 - Languages: German, English
-- Programming Languages: Java, Python, Kotlin
-- Favorite Database: MongoDB, Redis
+- Main programming language: Java
+- Programming languages: Java, Python, Kotlin
+- Databases: MongoDB, Redis, SQL (MySQL, SQLLite, H2)
