@@ -10,4 +10,4 @@ About me
 - Languages: German, English
 - Main programming language: Java
 - Programming languages: Java, Python, Kotlin
-- Databases: MongoDB, Redis, SQL (MySQL, SQLLite, H2)
+- Databases: MongoDB, Redis, SQL (MySQL, SQLite, H2)
