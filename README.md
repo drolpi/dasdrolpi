@@ -1,13 +1,12 @@
 ### Hi. 🎶
 My name is Lars, I am 15 years old and a German software engineer and fan of open source.
 
-- 🔭 I mainly work on [NatroxMc](https://github.com/NatroxMC) and [CubicusMc](https://github.com/CubicusMC) as well as smaller projects like [SkyWars](https://github.com/dasdrolpi/SkyWars) and [DailyReward](https://github.com/dasdrolpi/DailyReward)
-- 📆 Server projects I work(ed) on are WoolMc and [NatroxMc](https://github.com/NatroxMC) (my own Mincraft network)
-
-About me
-
-- Job: Student
-- Languages: German, English
-- Main programming language: Java
-- Programming languages: Java, Python, Kotlin
-- Databases: MongoDB, Redis, SQL (MySQL, SQLite, H2)
+- 🔭 I am currently working mainly on [NatroxMc](https://github.com/NatroxMC/).
+  - [Common](https://github.com/NatroxMC/Common/) 
+  - [Pipeline](https://github.com/NatroxMC/Pipeline/) 
+  - [Configuration](https://github.com/NatroxMC/Configuration/)
+- ☁️ As a side project I am working on my own cloud system [CubicusMc](https://github.com/CubicusMC/). 
+- 👀 And I also work on smaller projects.
+  - [SkyWars](https://github.com/dasdrolpi/SkyWars/)
+  - [DailyReward](https://github.com/dasdrolpi/DailyReward/)
+- 📆 Server project(s) I worked on in the past is/are WoolMc.
