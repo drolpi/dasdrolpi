@@ -3,6 +3,7 @@ My name is Lars, I am 15 years old and a German software engineer and fan of ope
 
 - 🔭 I am currently working mainly on [NatroxMc](https://github.com/NatroxMC/).
   - [Common](https://github.com/NatroxMC/Common/) 
+  - [EventBus](https://github.com/NatroxMC/EventBus/) 
   - [Pipeline](https://github.com/NatroxMC/Pipeline/) 
   - [Configuration](https://github.com/NatroxMC/Configuration/)
 - ☁️ As a side project I am working on my own cloud system [CubicusMc](https://github.com/CubicusMC/). 
