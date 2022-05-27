@@ -1,7 +1,7 @@
 ### Hi. 🎶
-My name is Lars, I am 15 years old and a German software engineer and fan of open source.
+My name is Lars, I am 15 years old and a German software developer and fan of open source.
 
-- 🔭 I am currently working mainly on [NatroxMc](https://github.com/NatroxMC/).
+- 🔭 I am currently mainly working on [NatroxMc](https://github.com/NatroxMC/).
   - [Common](https://github.com/NatroxMC/Common/) 
   - [EventBus](https://github.com/NatroxMC/EventBus/) 
   - [Pipeline](https://github.com/NatroxMC/Pipeline/) 
