@@ -8,9 +8,8 @@ My name is Lars, I am 15 years old and a German software developer and fan of op
   - [Messaging](https://github.com/NatroxMC/Messaging/)
   - [Pipeline](https://github.com/NatroxMC/Pipeline/) 
 - ☁️ As a side project I am working on my own cloud system [CubicusMc](https://github.com/CubicusMC/). 
-- 👀 And I also work on smaller projects.
+- 📆 And I also work(ed) on smaller projects.
   - [24GameSolver](https://github.com/dasdrolpi/24GameSolver)
   - [Terminal](https://github.com/dasdrolpi/Terminal/)
   - [SkyWars](https://github.com/dasdrolpi/SkyWars/)
   - [DailyReward](https://github.com/dasdrolpi/DailyReward/)
-- 📆 Server project(s) I worked on in the past is/are WoolMc.
